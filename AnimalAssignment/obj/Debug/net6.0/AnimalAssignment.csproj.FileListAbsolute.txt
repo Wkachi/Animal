@@ -1,0 +1,5 @@
+C:\Users\Kachi\Desktop\Backend Dev\AnimalAssignment\AnimalAssignment\obj\Debug\net6.0\AnimalAssignment.csproj.AssemblyReference.cache
+C:\Users\Kachi\Desktop\Backend Dev\AnimalAssignment\AnimalAssignment\obj\Debug\net6.0\AnimalAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kachi\Desktop\Backend Dev\AnimalAssignment\AnimalAssignment\obj\Debug\net6.0\AnimalAssignment.AssemblyInfoInputs.cache
+C:\Users\Kachi\Desktop\Backend Dev\AnimalAssignment\AnimalAssignment\obj\Debug\net6.0\AnimalAssignment.AssemblyInfo.cs
+C:\Users\Kachi\Desktop\Backend Dev\AnimalAssignment\AnimalAssignment\obj\Debug\net6.0\AnimalAssignment.csproj.CoreCompileInputs.cache
